@@ -152,6 +152,6 @@ and paste your public key
 
 ### Resources used to accomplish this project
 1. **helped me a lot *[digitalocean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)***
-2. **Great blog *[theodo-blog]https://blog.theodo.fr/2017/03/developping-a-flask-web-app-with-a-postresql-database-making-all-the-possible-errors/***
+2. **Great blog *[theodo-blog](https://blog.theodo.fr/2017/03/developping-a-flask-web-app-with-a-postresql-database-making-all-the-possible-errors/)***
 3. **Helpful Documentations *[flask Docs](http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/)***
 
